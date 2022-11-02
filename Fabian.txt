@@ -1,4 +1,3 @@
 Test de pruebas 
-fabian.
-Experiencias: Mi primer dia de colegio
-Mi primer dia de universidad.
+fabian
+Nos enfocaremos en otro punto de Git.
